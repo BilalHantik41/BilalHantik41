@@ -1,4 +1,4 @@
-## ☄️ Hey! I'm <İsmin buraya>  
+## ☄️ Hey! I'm <Bilal Hantik>  
 
 - 🔧 Şu sıralar **Patika+ C# Backend Bootcamp** ile .NET ekosisteminin derinliklerine dalıyorum.  
 - ⛓️ Paralelde, **blockchain altyapıları** ve **akıllı sözleşmeler** konusunda projeler geliştiriyorum.  
