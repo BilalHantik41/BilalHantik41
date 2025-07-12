@@ -1,7 +1,7 @@
 ## ☄️ Hey! I'm Bilal Hantik
 
-- 🔧 Şu sıralar **Patika+ C# Backend Bootcamp** ile .NET ekosisteminin derinliklerine dalıyorum.  
-- ⛓️ Paralelde, **blockchain altyapıları** ve **akıllı sözleşmeler** konusunda projeler geliştiriyorum.  
+- 🔧 Şu sıralar **Patika+ C# Backend Bootcamp** ile .NET eğitimimi tamamlıyorum
+- ⛓️ Ayrıca, **blockchain altyapıları** ve **akıllı sözleşmeler** konusunda kendimi geliştirmeye çalışıyorum.  
 - 📝 Öğrendiklerimi ara ara <Github / LinkedIn>’de paylaşıyorum.  
 - 📬 Bana ulaş: <bilalhantik@gmail.com>  
 
