@@ -2,7 +2,7 @@
 
 - 🔧 Şu sıralar **Patika+ C# Backend Bootcamp** ile .NET ekosisteminin derinliklerine dalıyorum.  
 - ⛓️ Paralelde, **blockchain altyapıları** ve **akıllı sözleşmeler** konusunda projeler geliştiriyorum.  
-- 📝 Öğrendiklerimi ara ara <Medium / Blog / LinkedIn>’de paylaşıyorum.  
+- 📝 Öğrendiklerimi ara ara <Github / LinkedIn>’de paylaşıyorum.  
 - 📬 Bana ulaş: <bilalhantik@gmail.com>  
 
 ### Connect with me
